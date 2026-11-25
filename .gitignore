@@ -1,0 +1,6 @@
+.env
+vendor/
+*.pdf
+logs/
+docs/
+.phpunit.result.cache
